@@ -6,7 +6,7 @@ Crypto‑Trivia – an on-chain quiz game that automatically rewards questions g
 ## Installation
 
 ```bash
-git clone https://github.com/username/crypto-trivia.git
+git clone https://github.com/ID098/crypto-trivia.git
 cd crypto-trivia
 
 # Frontend
